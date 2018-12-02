@@ -1,0 +1,11 @@
+export const VIEW_NAV='VIEW_NAV';
+export const VIEW_FOOT='VIEW_FOOT';
+export const VIEW_LODING=' VIEW_LODING';
+export const CLEAR_HOME='CLEAR_HOME';//清空购物车
+export const UPDATE_USER='UPDATE_USER';//验证用户
+export const ADD_CAR='ADD_CAR';//加入购物车
+export const ADD='ADD';//加
+export const REDUCE='REDUCE';//减
+export const UPDATE_FOLLOW='UPDATE_FOLLOW';//点击渲染列表
+export const UPDATE_DETAIL='UPDATE_DETAIL';//详情页
+export const UPDATE_LISTS='UPDATE_LISTS';//点击渲染列表的操作

@@ -1,0 +1,44 @@
+ 
+.footer-box {
+    position: fixed;
+    z-index: 999;
+    bottom: 0;
+    height:1rem;
+    width: 100%;
+    left: 0;
+
+    background: #fff;
+
+    .menu_foot {
+        flex: 1;
+        display: flex;
+        text-align: center;
+        margin: .2rem 0 0 0;
+        box-sizing: border-box;
+
+        a {
+            flex: 1;
+            background-color: #fafafa;
+            display: block;
+            border-top: .01rem solid #dbdbdb;
+            height: .7rem;
+            padding: .09rem 0px 0px;
+            text-decoration: none;
+            color: #444;
+            &.active{
+                 color: #f1782f;;
+            }
+            s {
+                font-size:.35rem;
+                display: inline-block;
+                
+            }
+            p{
+                font:.12rem/.12rem  "";
+                margin-top:.1rem;
+            }
+        }
+    }
+
+
+}

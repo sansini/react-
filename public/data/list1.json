@@ -1,0 +1,111 @@
+
+    [
+		{
+			"id":1,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/5fff9af1d657caeebcb061085ef865fd?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】夏威夷果200g/袋",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥34.9",
+			"sprice":"￥73.9"
+			
+		},
+		{
+			"id":2,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/d54f2a38c6a13e7e7ec0634db544b71a?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】夏威夷果200g/袋",
+			"pro_desc":"碧根果,坚果炒货,奶香四溢,带壳坚果,大果亻",   "price":"￥38.9",
+			"sprice":"￥65.8"
+			
+		},
+		{
+			"id":3,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/6b7251a1e8423109a3a5cc81f17f0ad1?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】板栗仁200g/袋",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥21.9",
+			"sprice":"￥29.9"
+			
+		},
+		{
+			"id":4,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/6b2a3c0cf3743eeefcdba885b3e86793?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】东北松子200g/袋",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥49.9",
+			"sprice":"￥78.9"
+			
+		},
+		{
+			"id":5,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/e770237d423228096b4bbd473a45c644?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】芒果干200g/袋",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥23.9",
+			"sprice":"￥53.9"
+			
+		},
+		{
+			"id":6,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/22bbe47a9ef2b7e124ca1f23532f4259?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】草莓干200g/袋",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥26.9",
+			"sprice":"￥46.9"
+			
+		},
+		{
+			"id":7,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/dbbddb0f355e7c8098d723fb46b6cc4a?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】麻辣牛肉200g/袋",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥9.9",
+			"sprice":"￥29.9"
+			
+		},
+		{
+			"id":8,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/3b90d28ca103b96b13d5a12c4a6b3e64?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】巴旦木200g/袋",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥36.9",
+			"sprice":"￥68.9"
+			
+		},
+		{
+			"id":9,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/3b90d28ca103b96b13d5a12c4a6b3e64?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】巴旦木200g/袋",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥36.9",
+			"sprice":"￥68.9"
+			
+		},
+		{
+			"id":10,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/235471b0ac805260b3f2090d4105bf89?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】山楂条200g/袋",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥7.9",
+			"sprice":"￥15.8"
+			
+		},
+		{
+			"id":11,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/9e5a6f2d6997b60aed7d3df34c7c396a?imageView2/1/w/320/h/320",
+			"pro_name":"【2袋装】香葱山药片200g/袋",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥12.9",
+			"sprice":"￥19.9"
+			
+		},
+		{
+			"id":12,
+			"title":"热卖爆款",
+			"imgsrc":"http://img2.vipbcw.com/2018/09/3080262909da5ba40e9e7c92d6e205b0?imageView2/1/w/320/h/320",
+			"pro_name":"中秋大礼包",
+			"pro_desc":"百草味,奶油味,夏威夷果,奶油醇香,饱满,开果器,带壳坚果",   "price":"￥88",
+			"sprice":"￥168"
+			
+		}
+	]
